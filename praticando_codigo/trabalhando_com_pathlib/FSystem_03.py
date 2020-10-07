@@ -38,11 +38,13 @@ print("Sem eval() received input is: ",str)
 print("Com eval() received input is: ",eval(str))
 
 """
+PARANDO POR AQUI - CRIANDO NOVO ARUIVO DE TESTES FSysytem)04.py
+    
 Daqui pra frente o diretório base (root) para brincar será 
-D:\SANDBOX_GERAL\JUPYTER_SANDBOX\Raiz-do-Python\PRATICANDO-CODIGO\TRABALHANDO COM PATHLIB
-#Função open()
+D:\SANDBOX_GERAL\JUPYTER_SANDBOX\Raiz-do-Python\praticando_codigo\trabalhando_com_pathlib
 
-
+A partir daqui vou abandonar a apostila acima pois é do tempo do python versão 2
+"""
 
 
 
